@@ -1,8 +1,4 @@
-[![Froxlor-CI](https://github.com/Froxlor/Froxlor/actions/workflows/build-mariadb.yml/badge.svg?branch=master)](https://github.com/Froxlor/Froxlor/actions/workflows/build-mariadb.yml)
-[![Froxlor-CI](https://github.com/Froxlor/Froxlor/actions/workflows/build-mysql.yml/badge.svg?branch=master)](https://github.com/Froxlor/Froxlor/actions/workflows/build-mysql.yml)
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.froxlor.org)
-
-# Froxlor
+# sPanel (new, and hopefully working)
 
 The server administration software for your needs.
 Developed by experienced server administrators, this panel simplifies the effort of managing your hosting platform.
@@ -11,8 +7,8 @@ Developed by experienced server administrators, this panel simplifies the effort
 
 ### Fast install
 1. Ensure that your webserver serves /var/www
-2. Extract froxlor into /var/www
-3. Point your browser to http://[ip-of-webserver]/froxlor
+2. Extract sPanel into /var/www
+3. Point your browser to http://[ip-of-webserver]/sPanel
 4. Follow the installer
 5. Login as administrator
 6. Adjust "System > Settings" according to your needs
@@ -26,10 +22,6 @@ https://docs.froxlor.org/general/installation/index.html
 ## Help
 
 You may find help in the following places:
-
-### Discord
-
-The froxlor community discord server can be found here: https://discord.froxlor.org
 
 ### IRC
 
