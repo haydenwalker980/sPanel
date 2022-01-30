@@ -1,6 +1,6 @@
 	</div>
 	<footer>
-		<span> Froxlor &copy; 2009-{$current_year} by <a href="http://www.froxlor.org/" rel="external">the Froxlor Team</a>
+		<span> sPanel &copy; 2021-{$current_year} by <a href="http://winisreallybored.xyz/" rel="external">Windev Studios</a>
 		</span>
 	</footer>
 </body>
